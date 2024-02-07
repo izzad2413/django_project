@@ -2,9 +2,13 @@
 
 Experience seamless flight price prediction locally with a deployed machine learning model using the Django framework. Input your parameters to receive instant predictions for your flights.
 
-![home_page](https://github.com/izzad2413/django_project/assets/88135216/3a507dd1-8882-4565-93ba-b74f7b5d2bc1)
+<div style="text-align:center">
+    <img src="https://github.com/izzad2413/django_project/assets/88135216/3a507dd1-8882-4565-93ba-b74f7b5d2bc1" alt="home_page">
+</div>
 
-![result_page](https://github.com/izzad2413/django_project/assets/88135216/7c22c23c-3161-4df0-b051-543e1f5b8149)
+<div style="text-align:center">
+    <img src="https://github.com/izzad2413/django_project/assets/88135216/7c22c23c-3161-4df0-b051-543e1f5b8149" alt="result_page">
+</div>
 
 ## About The Project
 
@@ -12,10 +16,8 @@ The deployment phase, the culminating stage of the Cross-Industry Standard Proce
 
 ## Built With
 
-* ![Python](https://img.shields.io/badge/:badgeContent?logo=python&color=%233776AB)
-
-* [![Python][Python.org]][Python-url]
-* [![Next][Next.js]][Next-url]
+* ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=black)
+* ![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=%23092E20&labelColor=black)
 
 ## Dataset
 
