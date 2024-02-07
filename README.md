@@ -18,6 +18,7 @@ The deployment phase, the culminating stage of the Cross-Industry Standard Proce
 
 * ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=black)
 * ![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=%23092E20&labelColor=black)
+* ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html&logoColor=%23E34F26&labelColor=black)
 
 ## Dataset
 
