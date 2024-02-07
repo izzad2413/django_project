@@ -14,6 +14,7 @@ The deployment phase, the culminating stage of the Cross-Industry Standard Proce
 
 * [![Django][Django.com]][Django-url]
 * [![Python][Python.org]][Python-url]
+* [![Next][Next.js]][Next-url]
 
 ## Dataset
 
