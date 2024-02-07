@@ -12,7 +12,8 @@ The deployment phase, the culminating stage of the Cross-Industry Standard Proce
 
 ## Built With
 
-* [![Django][Django.com]][Django-url]
+* [![Django]](https://img.shields.io/badge/Python.svg?&style=for-the-badge&logo=Python)
+* [![Django]()
 * [![Python][Python.org]][Python-url]
 * [![Next][Next.js]][Next-url]
 
