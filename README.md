@@ -18,7 +18,7 @@ The deployment phase, the culminating stage of the Cross-Industry Standard Proce
 
 * [![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=black)](https://www.python.org/)
 * [![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=%23092E20&labelColor=black)](https://www.djangoproject.com/)
-* ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=%23F37626&labelColor=black)
+* [![Jupyter](https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=%23F37626&labelColor=black)](https://jupyter.org/)
 * ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html&logoColor=%23E34F26&labelColor=black)
 
 ## Dataset
