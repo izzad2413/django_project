@@ -6,5 +6,6 @@ scikit-learn
 django
 pypickle
 ipykernel
+Pyarrow
 
 -e .
