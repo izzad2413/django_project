@@ -1,4 +1,10 @@
 # Flight Price Prediction: Deploying Machine Learning with Django
 
-Experience a seamless flight price prediction system locally! This project showcases deploying a machine learning model using Django framework, enabling users to input parameters for instant predictions. Run it on your localhost to witness accurate forecasts based on the latest input data.
+Experience seamless flight price prediction locally with a deployed machine learning model using the Django framework. Input your parameters to receive instant predictions for your flights.
+
+## Introduction
+
+The deployment phase, the culminating stage of the Cross-Industry Standard Process for Data Mining [(CRISP-DM)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining), is pivotal in transforming analytical insights into actionable solutions. While Flask and Streamlit are prominent choices, this tutorial diverges, spotlighting Django's robust capabilities. With a singular objective in mind – facilitating the deployment of machine learning models – this tutorial serves as a comprehensive guide for predicting flight prices, exemplifying Django's prowess in facilitating sophisticated model deployment.
+
+## Project Structure
 
