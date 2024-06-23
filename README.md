@@ -1,5 +1,7 @@
 # Flight Price Prediction: Deploying Machine Learning with Django
 
+[![Static Badge](https://img.shields.io/badge/Back_to_Portfolio_Page-red?style=for-the-badge&logo=github&labelColor=black)](https://izzad2413.github.io/nazmirulizzadnassir.github.io/)
+
 Experience seamless flight price prediction locally with a deployed machine learning model using the Django framework. Input your parameters to receive instant predictions for your flights.
 
 <div style="text-align:center">
