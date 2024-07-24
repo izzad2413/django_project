@@ -1,28 +1,50 @@
-# Flight Price Prediction: Deploying Machine Learning with Django
+# Airfare Prediction Model Deployment
 
-Experience seamless flight price prediction locally with a deployed machine learning model using the Django framework. Input your parameters to receive instant predictions for your flights.
+[![Static Badge](https://img.shields.io/badge/Back_to_Portfolio_Page-red?style=for-the-badge&logo=github&labelColor=black)](https://izzad2413.github.io/nazmirulizzadnassir.github.io/)
 
-<div style="text-align:center">
-    <img src="https://github.com/izzad2413/django_project/assets/88135216/3a507dd1-8882-4565-93ba-b74f7b5d2bc1" alt="home_page">
-</div>
-
-<div style="text-align:center">
-    <img src="https://github.com/izzad2413/django_project/assets/88135216/7c22c23c-3161-4df0-b051-543e1f5b8149" alt="result_page">
-</div>
+![airfare-prediction](https://github.com/user-attachments/assets/abc9a8ce-d68a-40ef-9180-3f1be92be74d)
 
 ## About The Project
 
-The deployment phase, the culminating stage of the Cross-Industry Standard Process for Data Mining [(CRISP-DM)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining), is pivotal in transforming analytical insights into actionable solutions. While [Flask](https://flask.palletsprojects.com/en/3.0.x/) and [Streamlit](https://streamlit.io/) are prominent choices, this tutorial diverges, spotlighting Django's robust capabilities. With a singular objective in mind – facilitating the deployment of machine learning models – this tutorial serves as a comprehensive guide for predicting flight prices, exemplifying Django's prowess in facilitating sophisticated model deployment.
+Experience seamless flight price prediction locally with a deployed machine learning model using the Django framework. Input your parameters to receive instant predictions for your flights.
 
 ## Built With
 
-* [![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=black)](https://www.python.org/)
-* [![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=%23092E20&labelColor=black)](https://www.djangoproject.com/)
-* [![Jupyter](https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=%23F37626&labelColor=black)](https://jupyter.org/)
-* ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html&logoColor=%23E34F26&labelColor=black)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,python,tensorflow,django&titles=true)
 
 ## Dataset
 
 The flight booking dataset, sourced from Kaggle, offers comprehensive insights into flight booking options available on the Easemytrip website for travel between India's top 6 metro cities. With a total of 300261 distinct flight bookings and 11 informative features, this dataset provides a rich resource for analyzing and understanding booking patterns and preferences within the Indian aviation market. 
 
 _For more detail about the dataset, please refer to [Flight Price Prediction](https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction)_
+
+## How to Use
+
+<div style="text-align:center">
+    <img src="https://github.com/izzad2413/django_project/assets/88135216/3a507dd1-8882-4565-93ba-b74f7b5d2bc1" alt="home_page">
+</div>
+
+**1. Clone the Repository:**
+```bash
+git clone https://github.com/yourgithubusername/django_project.git
+```
+
+**2. Navigate to the Project Directory:**
+```bash
+cd django_project
+```
+
+**3. Install Dependencies:**
+```bash
+pip install -r requirements.txt
+```
+
+**4. Run the Django Development Server:**
+```bash
+python manage.py runserver
+```
+
+**5. Access the Application:**
+```bash
+Open your web browser and navigate to http://127.0.0.1:8000/.
+```
