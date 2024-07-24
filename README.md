@@ -23,3 +23,28 @@ _For more detail about the dataset, please refer to [Flight Price Prediction](ht
 <div style="text-align:center">
     <img src="https://github.com/izzad2413/django_project/assets/88135216/3a507dd1-8882-4565-93ba-b74f7b5d2bc1" alt="home_page">
 </div>
+
+**1. Clone the Repository:**
+```bash
+git clone https://github.com/yourgithubusername/airfare-prediction.git
+```
+
+**2. Navigate to the Project Directory:**
+```bash
+cd airfare-prediction
+```
+
+**3. Install Dependencies:**
+```bash
+pip install -r requirements.txt
+```
+
+**4. Run the Django Development Server:**
+```bash
+python manage.py runserver
+```
+
+**5. Access the Application:**
+```bash
+Open your web browser and navigate to http://127.0.0.1:8000/.
+```
