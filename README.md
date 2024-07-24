@@ -10,7 +10,7 @@ Experience seamless flight price prediction locally with a deployed machine lear
 
 ## Built With
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,python,tensorflow,django&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,python,scikitlearn,tensorflow,django&titles=true)
 
 ## Dataset
 
