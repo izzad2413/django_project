@@ -2,7 +2,7 @@
 
 [![Static Badge](https://img.shields.io/badge/Back_to_Portfolio_Page-red?style=for-the-badge&logo=github&labelColor=black)](https://izzad2413.github.io/nazmirulizzadnassir.github.io/)
 
-![aircraft-8867083_1280-modified](https://github.com/user-attachments/assets/92a9adb7-c310-43f7-89ef-21ae7347336b)
+![airfare-prediction](https://github.com/user-attachments/assets/abc9a8ce-d68a-40ef-9180-3f1be92be74d)
 
 ## About The Project
 
