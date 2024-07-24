@@ -1,6 +1,7 @@
 from django.shortcuts import render
 import pickle
 import pandas as pd
+import tensorflow as tf
 
 def home(request):
     return render(request, 'index.html')
@@ -25,7 +26,7 @@ def cats_transformer(df):
 
 def get_predictions(process_input):
     # load the saved models
-    model = pickle.load(open('./../models/lr_model.pkl', 'rb'))
+    model = tf.keras.models.load_model('./../models/ann_model.h5')
     scaler = pickle.load(open('./../models/scaler.pkl', 'rb'))
 
     # normalized the input
