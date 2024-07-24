@@ -26,7 +26,7 @@ def cats_transformer(df):
 
 def get_predictions(process_input):
     # load the saved models
-    model = tf.keras.models.load_model('./../models/ann_model.h5')
+    model = tf.keras.models.load_model('./../models/ann_model.keras')
     scaler = pickle.load(open('./../models/scaler.pkl', 'rb'))
 
     # normalized the input
