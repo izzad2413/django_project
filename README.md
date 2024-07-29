@@ -18,6 +18,13 @@ The flight booking dataset, sourced from Kaggle, offers comprehensive insights i
 
 _For more detail about the dataset, please refer to [Flight Price Prediction](https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction)_
 
+## Methodology
+
+- **Exploratory Data Analysis (EDA):** Conducted thorough exploratory data analysis to understand the dataset's structure, identify patterns, and uncover any anomalies.
+- **Data Preprocessing:** Preprocessed the dataset, including converting categorical data into appropriate formats suitable for modeling.
+- **Modeling:** Employed logistic regression and deep learning techniques to predict flight prices.
+- **Model Selection and Deployment:** Selected the best-performing model for deployment using the Django framework.
+
 ## How to Use
 
 <div style="text-align:center">
