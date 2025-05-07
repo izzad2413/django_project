@@ -27,9 +27,7 @@ _For more detail about the dataset, please refer to [Flight Price Prediction](ht
 
 ## How to Use
 
-<div style="text-align:center">
-    <img src="https://github.com/izzad2413/django_project/assets/88135216/3a507dd1-8882-4565-93ba-b74f7b5d2bc1" alt="home_page">
-</div>
+![Image](https://github.com/user-attachments/assets/127c99be-c853-46fc-88e4-5cc3e62b4cbc)
 
 **1. Clone the Repository:**
 ```bash
@@ -41,17 +39,22 @@ git clone https://github.com/yourgithubusername/django_project.git
 cd django_project
 ```
 
-**3. Install Dependencies:**
+**3. Create Virtual Environment:**
+```bash
+conda create -n your_venv_name python==your_preferred_version -y
+```
+
+**4. Install Dependencies:**
 ```bash
 pip install -r requirements.txt
 ```
 
-**4. Run the Django Development Server:**
+**5. Navigate to django_deployment & Run the Django Development Server:**
 ```bash
 python manage.py runserver
 ```
 
-**5. Access the Application:**
+**6. Access the Application:**
 ```bash
 Open your web browser and navigate to http://127.0.0.1:8000/.
 ```
